@@ -26,5 +26,13 @@ Git for version control
 
 Schedule
 
+	Get the Data (1/26/2025)
+	Clean & Explore the Data (2/9/2025)
+	Create Presentation of your Analysis (2/18/2025)
+  		Python, Power BI
+	Internal demos (2/25/2025)
+	Demo Day!! (3/6/2025)
+
+
 Analysis 
 Conclusion
