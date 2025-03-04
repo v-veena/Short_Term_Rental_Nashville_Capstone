@@ -37,4 +37,4 @@ Conclusion
 * Average nightly rental prices vary across different neighborhoods and districts in the Nashville Airbnb ecosystem. The lowest average nightly rental prices are found in Districts 19, 6,32,31, and 16, while the highest average nightly rental prices are in Districts 34, 20, 25, 23, and 17. Current hosts can set their pricing based on these neighborhood and listing price differences, taking into account the specific restrictions in each district.
 
 Link to Dashboard
-https://app.powerbi.com/groups/me/reports/8becd418-3af3-4018-885f-d782ef70a173/b6a5c2f772cfbdd44ece?experience=power-bi
+[https://app.powerbi.com/groups/me/reports/8becd418-3af3-4018-885f-d782ef70a173/b6a5c2f772cfbdd44ece?experience=power-bi](https://app.powerbi.com/groups/me/reports/8becd418-3af3-4018-885f-d782ef70a173/ab063bba8942fe8537d2?experience=power-bi)
